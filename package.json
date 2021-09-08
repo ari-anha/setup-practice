@@ -1,0 +1,25 @@
+{
+  "name": "setup-practice",
+  "version": "1.0.0",
+  "description": "practice to set up projects",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ari-anha/setup-practice.git"
+  },
+  "author": "Arianha Bayley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ari-anha/setup-practice/issues"
+  },
+  "homepage": "https://github.com/ari-anha/setup-practice#readme",
+  "devDependencies": {
+    "jest": "^27.1.1"
+  }
+}
